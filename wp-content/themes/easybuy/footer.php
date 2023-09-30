@@ -28,7 +28,7 @@ $logo_url = get_template_directory_uri() . "/assets/logo.png";
                 About Us
             </a>
         </div>
-        <div class="footer-column">
+        <div class="">
             <div class="footer-header">
                 FOLLOW US ON
             </div>
